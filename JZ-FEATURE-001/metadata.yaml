@@ -1,1 +1,5 @@
-name: feature
+feature_id: JZ-FEATURE-0001
+
+name: SSM API Document Execution Workflow
+
+version: v1.0.0
