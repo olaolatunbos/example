@@ -1,1 +1,1 @@
-text to read
+Hello {{.homeRegion }}
